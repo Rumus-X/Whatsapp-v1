@@ -267,7 +267,7 @@ def dark_format_0992():
   [•]───────────────────────────────────────────[•]
    |    Creator   : Rumus X                      |
   [•]───────────────────────────────────────────[•]
-                   '''+W+'By: ./'+A+' Mister AM\n\t\t' + M + ' YT' +P+ ' >'+K+' Mister AM')
+                   ''')
 def dark():
         print ('')
         print ('')
@@ -278,7 +278,7 @@ def dark():
         dark_format_auto(C+'\t['+W+'4'+C+']'+W+' SPAM WA TOKOPEDIA'+C+' ( '+H+'ON ✅'+C+' )')
         dark_format_auto(C+'\t['+W+'5'+C+']'+W+' SPAM WA TOKOTALK !'+C+' ( '+H+'ON ✅'+C+' )')
         dark_format_auto(C+'\t['+W+'6'+C+']'+W+' SPAM WA BALAJI'+C+' ( '+M+'OFF 🚫'+C+' )')
-        dark_format_auto(C+'\t['+W+'7'+C+']'+M+' EXIT'+C+' ( '+H+'Aktif'+C+' )')
+        dark_format_auto(C+'\t['+W+'7'+C+']'+M+' EXIT'+C+)
         print ('')
 def dark_exit():
 	print (C+'OKE')
